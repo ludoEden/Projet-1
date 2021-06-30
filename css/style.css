@@ -1,0 +1,10 @@
+.bg-germany {
+    color: #fff;
+    background: linear-gradient(90deg, rgba(51, 203, 203, 1) 80%, rgba(0, 0, 0, 0) 10%), linear-gradient(90deg, rgba(3, 44, 157, 1) 90%, rgba(255, 252, 0, 1) 50%);
+    width: 4rem;
+    padding: 1px;
+    border-radius: 2px;
+}
+
+  
+
